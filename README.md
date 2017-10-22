@@ -6,7 +6,7 @@ An R Markdown template for Star-Wars-intro-like presentation using [StarWarsIntr
 Example
 -------
 
-https://yutannihilation.github.io/StarWards/Untitled.html
+https://yutannihilation.github.io/StarWords/Untitled.html
 
 ![](snap.png)
 
